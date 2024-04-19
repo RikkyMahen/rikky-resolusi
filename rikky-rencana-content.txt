@@ -5,9 +5,11 @@ RENCANA KONTEN RIKKY
   * Framework Javascript
     ^ Vue
     ^ React
+    ^ Angular
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
+  ^ Code Igniter
 - Interview
 - Vlog
 - Python
