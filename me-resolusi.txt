@@ -1,0 +1,5 @@
+Hello, My name is Rikky
+
+Resolusi Saya:
+- Membuat website menggunakan framework javascript reactjs.
+- Bekerja di start-up.
